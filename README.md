@@ -12,8 +12,8 @@ The best way for me to learn is by doing, and I try to keep myself up-to-date
 by working on projects. Here are some of my projects:
 
 - [Home Camp](https://www.homecamp-ios.ca) 🏕️
-- [HeartShip | Apple App Store](https://apps.apple.com/ca/app/heartship/id6443454597)
-- [Hope for Cheetahs](https://www.hope4cheetahs.org/)
+- [HeartShip | Apple App Store](https://apps.apple.com/ca/app/heartship/id6443454597) 💙
+- [Hope for Cheetahs](https://www.hope4cheetahs.org/) 🐆
 
 ### 🌱 My Approach to Growth
 
