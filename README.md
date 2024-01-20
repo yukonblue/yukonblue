@@ -11,10 +11,10 @@ and prior to that I was a Senior System Engineer at Apple.
 The best way for me to learn is by doing, and I try to keep myself up-to-date
 by working on projects. Here are some of my projects:
 
-- [Home Camp](https://www.homecamp-ios.ca) 🏕️
-- [HeartShip | Apple App Store](https://apps.apple.com/ca/app/heartship/id6443454597) 💙
-- [CoreColor](https://github.com/yukonblue/CoreColor)
-- [Hope for Cheetahs](https://www.hope4cheetahs.org/) 🐆
+- [Home Camp](https://www.homecamp-ios.ca) 🏕️ - Location-based and real-time alerts, reminders, and actions on iOS
+- [HeartShip | Apple App Store](https://apps.apple.com/ca/app/heartship/id6443454597) 💙 - Soothing melodies on iOS
+- [CoreColor](https://github.com/yukonblue/CoreColor) 🖍️ - Color modeling and conversion framework in Swift
+- [Hope for Cheetahs](https://www.hope4cheetahs.org/) 🐆 - Promoting cheetah conservation
 
 ### 🌱 My Approach to Growth
 
