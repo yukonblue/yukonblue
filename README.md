@@ -2,19 +2,20 @@
 
 ### 🧑🏻‍💻 My Journey
 
-I've been doing iOS 📱 and macOS 💻 development for the past 10 years.
+I've been doing iOS 📱 and macOS 💻 development for the almost 10 years.
 I'm currently a Senior iOS Engineer at Square,
-and prior to that I was a Senior System Engineer at Apple.
+and prior to that I was a Senior System Engineer at Apple. Prior to that
+I also worked on large-scale backend systems and low-level graphics drivers.
 
 ### 🛠️ My Projects
 
 The best way for me to learn is by doing, and I try to keep myself up-to-date
 by working on projects. Here are some of my projects:
 
-- [Home Camp](https://www.homecamp-ios.ca) 🏕️ - Location-based and real-time alerts, reminders, and actions on iOS
-- [HeartShip | Apple App Store](https://apps.apple.com/ca/app/heartship/id6443454597) 💙 - Soothing melodies on iOS
-- [CoreColor](https://github.com/yukonblue/CoreColor) 🖍️ - Color modeling and conversion framework in Swift
-- [Hope for Cheetahs](https://www.hope4cheetahs.org/) 🐆 - Promoting cheetah conservation
+- [Home Camp](https://www.homecamp-ios.ca) 🏕️ - Location-based and real-time alerts, reminders, and actions on iPhone.
+- [HeartShip | Apple App Store](https://apps.apple.com/ca/app/heartship/id6443454597) 💙 - Soothing melodies on iPhone.
+- [CoreColor](https://github.com/yukonblue/CoreColor) 🖍️ - Color modeling and conversion framework in Swift.
+- [Hope for Cheetahs](https://www.hope4cheetahs.org/) 🐆 - Promoting cheetah conservation.
 
 ### 🌱 My Approach to Growth
 
