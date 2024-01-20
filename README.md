@@ -1,19 +1,19 @@
-### Hi there 👋✨
+## Hi there 👋✨
 
-- 🧑🏻‍💻 My Journey
+### 🧑🏻‍💻 My Journey
 
 I've been doing iOS 📱 development 💻 for the past 10 years.
 I'm currently a Senior iOS Engineer at Square,
 and prior to that I was a Senior iOS Engineer at Apple.
 
-- 🛠️ My Projects
+### 🛠️ My Projects
 
 The best way for me to learn is by doing, and I try to keep myself up-to-date
 by working on projects. Here are some of my projects:
 
 https://www.homecamp-ios.ca
 
-- 🌱 My Approach to Growth
+### 🌱 My Approach to Growth
 
 I focus on grow both my technical and soft skills. My philosophy is that
 there are opportunities for learning and growth in every facet of life,
