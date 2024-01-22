@@ -4,7 +4,7 @@
 
 I've been doing iOS 📱 and macOS 💻 development for the almost 10 years.
 I'm currently a Senior iOS Engineer at Square,
-and prior to that I was a Senior System Engineer at Apple. Prior to that
+and prior to that I was a Senior System Engineer at Apple. Before that
 I also worked on large-scale backend systems and low-level graphics drivers.
 
 ### 🛠️ My Projects
@@ -26,9 +26,10 @@ Every tiny step counts.
 
 Outside of iOS development, I’m passionate about software architectures.
 I believe good software architecture is the prerequisite of shipping
-high-quality software.
+high-quality software. In my spare time I read up on software architectures
+across multiple disciplines and identify applicabilities across domains.
 
 I’m also passionate about operating systems, programming languages
 and compilers, graphics, and artificial intelligence.
 
-My favorite programming languages are Swift, Rust, C++, and Objective-C.
+My favorite programming languages are Swift, Rust, C++, Objective-C, and Python.
