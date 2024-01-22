@@ -1,8 +1,8 @@
-## Hi there 👋✨
+## Hello from Will 👋✨
 
 ### 🧑🏻‍💻 My Journey
 
-I've been doing iOS 📱 and macOS 💻 development for the almost 10 years.
+I've been doing iOS 📱 and macOS 💻 development for almost 10 years.
 I'm currently a Senior iOS Engineer at Square,
 and prior to that I was a Senior System Engineer at Apple. Before that
 I also worked on large-scale backend systems and low-level graphics drivers.
