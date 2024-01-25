@@ -41,3 +41,7 @@ I’m also passionate about operating systems, programming languages
 and compilers, graphics, and artificial intelligence.
 
 My favorite programming languages are Swift, Rust, C++, Objective-C, and Python.
+
+---
+
+Will Li from Toronto, Canada 🇨🇦
