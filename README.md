@@ -2,10 +2,18 @@
 
 ### 🧑🏻‍💻 My Journey
 
-I've been doing iOS 📱 and macOS 💻 development for almost 10 years.
-I'm currently a Senior iOS Engineer at Square,
-and prior to that I was a Senior System Engineer at Apple. Before that
-I also worked on large-scale backend systems and low-level graphics drivers.
+I've been doing iOS 📱 and macOS 💻 development for about a decade.
+I'm currently a Lead iOS Engineer at Square, and prior to that
+I was a Senior System Engineer at Apple.
+
+I love all aspects of iOS development, and have worked on a myriad of
+subdomains including low-level system frameworks, UI frameworks, runtimes,
+persistence stacks, user-facing features, and high-performance sync engines.
+I also have extensive experience in collaborating with UX designers
+as well as backend engineers to drive solutions together.
+
+Before embarking on the iOS journey I also worked on large-scale backend
+systems and low-level graphics drivers.
 
 ### 🛠️ My Personal Projects
 
