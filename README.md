@@ -21,6 +21,7 @@ The best way for me to learn is by doing, and I try to keep myself up-to-date
 by working on personal projects during my spare time. Here are some of my projects:
 
 - [Home Camp](https://www.homecamp-ios.ca) 🏕️ - Location-based and real-time alerts, reminders, and actions on iPhone.
+- [MultiStateButton](https://github.com/will-ship-it/MultiStateButton) 🔅 - SwiftUI component for building button elements with multi-state semantics.
 - [HeartShip | Apple App Store](https://apps.apple.com/ca/app/heartship/id6443454597) 💙 - Soothing melodies on iPhone.
 - [CoreColor](https://github.com/yukonblue/CoreColor) 🖍️ - Color modeling and conversion framework in Swift.
 - [Hope for Cheetahs](https://www.hope4cheetahs.org/) 🐆 - Promoting cheetah conservation.
